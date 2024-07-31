@@ -1,0 +1,15 @@
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/bin/Debug/net8.0/StudentEnrollmentMicro.Persistence.deps.json
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/bin/Debug/net8.0/StudentEnrollmentMicro.Persistence.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/bin/Debug/net8.0/StudentEnrollmentMicro.Persistence.pdb
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/bin/Debug/net8.0/StudentEnrollmentMicro.Domain.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/bin/Debug/net8.0/StudentEnrollmentMicro.Domain.pdb
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/obj/Debug/net8.0/StudentEnrollmentMicro.Persistence.csproj.AssemblyReference.cache
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/obj/Debug/net8.0/StudentEnrollmentMicro.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/obj/Debug/net8.0/StudentEnrollmentMicro.Persistence.AssemblyInfoInputs.cache
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/obj/Debug/net8.0/StudentEnrollmentMicro.Persistence.AssemblyInfo.cs
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/obj/Debug/net8.0/StudentEnrollmentMicro.Persistence.csproj.CoreCompileInputs.cache
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/obj/Debug/net8.0/StudentE.6A810744.Up2Date
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/obj/Debug/net8.0/StudentEnrollmentMicro.Persistence.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/obj/Debug/net8.0/refint/StudentEnrollmentMicro.Persistence.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/obj/Debug/net8.0/StudentEnrollmentMicro.Persistence.pdb
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Persistence/obj/Debug/net8.0/ref/StudentEnrollmentMicro.Persistence.dll

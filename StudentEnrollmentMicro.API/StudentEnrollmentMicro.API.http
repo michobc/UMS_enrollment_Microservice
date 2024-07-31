@@ -1,0 +1,6 @@
+@StudentEnrollementMicro.API_HostAddress = http://localhost:5197
+
+GET {{StudentEnrollementMicro.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

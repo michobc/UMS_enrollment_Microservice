@@ -1,0 +1,11 @@
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Domain/bin/Debug/net8.0/StudentEnrollmentMicro.Domain.deps.json
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Domain/bin/Debug/net8.0/StudentEnrollmentMicro.Domain.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Domain/bin/Debug/net8.0/StudentEnrollmentMicro.Domain.pdb
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Domain/obj/Debug/net8.0/StudentEnrollmentMicro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Domain/obj/Debug/net8.0/StudentEnrollmentMicro.Domain.AssemblyInfoInputs.cache
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Domain/obj/Debug/net8.0/StudentEnrollmentMicro.Domain.AssemblyInfo.cs
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Domain/obj/Debug/net8.0/StudentEnrollmentMicro.Domain.csproj.CoreCompileInputs.cache
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Domain/obj/Debug/net8.0/StudentEnrollmentMicro.Domain.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Domain/obj/Debug/net8.0/refint/StudentEnrollmentMicro.Domain.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Domain/obj/Debug/net8.0/StudentEnrollmentMicro.Domain.pdb
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Domain/obj/Debug/net8.0/ref/StudentEnrollmentMicro.Domain.dll
