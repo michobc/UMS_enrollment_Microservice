@@ -106,3 +106,7 @@
 /Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.API/obj/Debug/net8.0/StudentEnrollmentMicro.API.pdb
 /Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.API/obj/Debug/net8.0/StudentEnrollmentMicro.API.genruntimeconfig.cache
 /Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.API/obj/Debug/net8.0/ref/StudentEnrollmentMicro.API.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.API/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.API/bin/Debug/net8.0/StudentEnrollmentMicro.Application.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.API/bin/Debug/net8.0/StudentEnrollmentMicro.Application.pdb

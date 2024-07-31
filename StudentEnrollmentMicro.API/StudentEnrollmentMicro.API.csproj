@@ -22,6 +22,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\StudentEnrollmentMicro.Persistence\StudentEnrollmentMicro.Persistence.csproj" />
+      <ProjectReference Include="..\StudentEnrollmentMicro.Application\StudentEnrollmentMicro.Application.csproj" />
     </ItemGroup>
 
 </Project>

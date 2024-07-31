@@ -1,14 +1,21 @@
 using Microsoft.EntityFrameworkCore;
+using StudentEnrollementMicro.Application.Consumer;
+using StudentEnrollementMicro.Application.Services;
 using StudentEnrollementMicro.Persistence.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Database
 builder.Services.AddDbContext<EnrollmentContext>(options =>
 {
     options.UseNpgsql(
         builder.Configuration.GetConnectionString("DefaultConnection"),
         b => b.MigrationsAssembly("StudentEnrollmentMicro.API"));
 });
+
+// Register RabbitMQ service
+builder.Services.AddSingleton<RabbitMqService>();
+builder.Services.AddHostedService<RabbitMqConsumerService>();
 
 builder.Services.AddControllers();
 

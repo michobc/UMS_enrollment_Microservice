@@ -10,6 +10,8 @@ Create a microservice that handles students class enrollments
     • Using RabbitMQ, allow an admin to add a new course using the main API, while automatically
 applying the necessary data changes within the microservice database.
 
+- Note :  the Infrastructure should be publishing not Consuming messages, in this case we are consuming => we put the service in the application layer
+
 // create migration:
 
 command : dotnet ef migrations add InitialCreate
@@ -18,8 +20,8 @@ command : dotnet ef migrations add InitialCreate
 
 command : dotnet ef database update
 
-# QUESTIONS:
-- migration in persistence layer directly
+// apply references:
+dotnet add reference ../LabSession5.Infrastructure/LabSession5.Infrastructure.csproj
 
 ## Multi-Tenancy
 Allow the same system to be used by multiple branches of the university. Users from one branch should not be able
@@ -31,6 +33,9 @@ to see the data from a different branch. (Use Schema-Based multi tenancy)
 
 ### Extra
 Allow Administrators to have full access to their own branch data, but only read access to other branches' data.
+
+## QUESTIONS:
+- migration in persistence layer directly
 
 # Michel BOU CHAHINE
 ## Inmind.ai

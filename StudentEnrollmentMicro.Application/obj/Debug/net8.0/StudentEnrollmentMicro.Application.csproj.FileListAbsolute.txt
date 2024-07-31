@@ -1,0 +1,17 @@
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/bin/Debug/net8.0/StudentEnrollmentMicro.Application.deps.json
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/bin/Debug/net8.0/StudentEnrollmentMicro.Application.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/bin/Debug/net8.0/StudentEnrollmentMicro.Application.pdb
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/bin/Debug/net8.0/StudentEnrollmentMicro.Domain.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/bin/Debug/net8.0/StudentEnrollmentMicro.Persistence.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/bin/Debug/net8.0/StudentEnrollmentMicro.Persistence.pdb
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/bin/Debug/net8.0/StudentEnrollmentMicro.Domain.pdb
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/obj/Debug/net8.0/StudentEnrollmentMicro.Application.csproj.AssemblyReference.cache
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/obj/Debug/net8.0/StudentEnrollmentMicro.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/obj/Debug/net8.0/StudentEnrollmentMicro.Application.AssemblyInfoInputs.cache
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/obj/Debug/net8.0/StudentEnrollmentMicro.Application.AssemblyInfo.cs
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/obj/Debug/net8.0/StudentEnrollmentMicro.Application.csproj.CoreCompileInputs.cache
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/obj/Debug/net8.0/StudentE.73A90E25.Up2Date
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/obj/Debug/net8.0/StudentEnrollmentMicro.Application.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/obj/Debug/net8.0/refint/StudentEnrollmentMicro.Application.dll
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/obj/Debug/net8.0/StudentEnrollmentMicro.Application.pdb
+/Users/michelbouchahine/RiderProjects/StudentEnrollementMicro/StudentEnrollmentMicro.Application/obj/Debug/net8.0/ref/StudentEnrollmentMicro.Application.dll
